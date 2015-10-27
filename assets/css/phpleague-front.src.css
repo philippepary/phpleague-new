@@ -1,0 +1,85 @@
+#phpleague {
+width:100%;
+font-size:.8em;
+}
+
+#phpleague caption {
+width:100%;
+font-size:1.4em;
+background: #E7E7E7;
+text-transform:uppercase;
+text-align:center;
+font-weight:700;
+padding:2px;
+}
+
+#phpleague td {
+padding:5px;
+}
+
+#phpleague .centered {
+text-align:center;
+}
+#phpleague .left {
+text-align:left;
+}
+#phpleague .right{
+text-align:right;
+}
+
+#phpleague .qualifying,#phpleague .relegation,#phpleague .promotion {
+float:left;
+height:15px;
+width:15px;
+}
+
+#phpleague .promotion {
+background:url(../img/promotion.png) no-repeat;
+}
+
+#phpleague .qualifying {
+background:url(../img/qualifying.png) no-repeat;
+}
+
+#phpleague .relegation {
+background:url(../img/relegation.png) no-repeat;
+}
+
+#phpleague img {
+vertical-align:middle;
+}
+
+#phpleague tr.id-favorite td {
+background:url(../img/favorite.png) repeat-x right top;
+color:#fff;
+font-weight:700;
+}
+
+#phpleague tr.id-favorite a {
+    color:#fff;
+}
+#phpleague .strong {
+	color:#FF0500;
+}
+#phpleague td {
+	text-align: center;
+}
+.volley-results {
+	border-bottom: 1px solid black;
+}
+.volley-results .header {
+	background-color: #E6B9B8;
+	border-top: none;
+	border-bottom: none;
+}
+.volley-results th {
+	background-color: #E6B9B8;
+	border: 1px solid black;
+}
+.volley-results td {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+#phpleague.fixtures-table td {
+	width: 30%;
+}

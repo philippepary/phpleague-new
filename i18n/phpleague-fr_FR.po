@@ -1,0 +1,989 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PHPLeague for WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-05 17:13+0100\n"
+"PO-Revision-Date: 2011-12-05 17:14+0100\n"
+"Last-Translator: Maxime Dizerens <mdizerens@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/www/wp-3-2/wp-content/"
+"plugins/phpleague\n"
+
+msgid " - Fixture: "
+msgstr " - Journée :"
+
+msgid " Factfile"
+msgstr " Information"
+
+msgid " Select one team from a league."
+msgstr " Sélectionnez une équipe du championnat."
+
+msgid " Your league has currently <b>%d</b> teams."
+msgstr " Votre championnat comporte <b>%d</b> équipes."
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&raquo;"
+msgstr "&laquo;"
+
+msgid "+/-"
+msgstr "+/-"
+
+msgid "-- Select a Team --"
+msgstr "-- Sélectionnez une Equipe --"
+
+msgid "-- Select a file --"
+msgstr "-- Sélectionnez un fichier --"
+
+msgid "-- Select a player --"
+msgstr "-- Sélectionnez un joueur --"
+
+msgid "-- Select a position --"
+msgstr "-- Sélectionnez une position --"
+
+msgid "-- Select a team --"
+msgstr "-- Sélectionnez une équipe --"
+
+msgid "-- Select a term --"
+msgstr "-- Sélectionnez votre option --"
+
+msgid "<noscript>Javascript must be enabled, thank you.</noscript>"
+msgstr "<noscript>Javascript doit être activé, merci.</noscript>"
+
+msgid "A"
+msgstr "BC"
+
+msgid "A player cannot be twice in the same team."
+msgstr ""
+"Un joueur ne peut pas jouer deux fois dans la même équipe, la même année."
+
+msgid "About"
+msgstr "A propos"
+
+msgid "About (PHPLeague)"
+msgstr "A propos (PHPLeague)"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add a Club"
+msgstr "Ajouter un Club"
+
+msgid "Add a Player"
+msgstr "Ajouter un Joueur"
+
+msgid "Add a Team"
+msgstr "Ajouter une Equipe "
+
+msgid "Add a Team in "
+msgstr "Ajouter une Equipe dans "
+
+msgid "An error occurred because of the datatype given."
+msgstr "Une erreur est survenue avec à cause du type de donnée reçu."
+
+msgid "An error occurred during the results generation."
+msgstr "Une erreur est survenue durant la génération."
+
+msgid "An error occurred with the fixture ID."
+msgstr "Une erreur est survenue avec l'ID de la journée."
+
+msgid "Away"
+msgstr "Extérieur"
+
+msgid "Away Matches"
+msgstr "Matchs à l'extérieur"
+
+msgid "Be aware that your league has an odd number of teams."
+msgstr ""
+"Soyez conscient que votre championnat comporte un nombre impaire d'équipes."
+
+msgid "Big Logo:"
+msgstr "Grand Logo :"
+
+msgid "Birthdate"
+msgstr "Date de Naissance"
+
+msgid "Birthdate:"
+msgstr "Date de Naissance :"
+
+msgid "Bonus/Malus for "
+msgstr "Bonus/Malus pour "
+
+msgid "Bonus/Malus updated successfully!"
+msgstr "Bonus/Malus mis à jour avec succès."
+
+msgid "Busted! ID is not correct!"
+msgstr "Héhé ! L'ID est incorrect !"
+
+msgid "Busted! We got 2 different IDs which is not possible!"
+msgstr ""
+"Je t'ai eu ! 2 IDs différents ont été détectés ce qui n'est pas possible !"
+
+msgid ""
+"By default, the countries are in English but you can update them from your "
+"MySQL Administration software. The French version is available in the i18n "
+"folder of your plugin."
+msgstr ""
+"Par défaut, les pays sont en anglais mais vous pouvez les mettre à jour "
+"depuis votre gestionnaire MySQL. La version française est disponible dans le "
+"dossier i18n."
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Changelog"
+msgstr "Changements"
+
+msgid "Choose a name and a year then you can create your league."
+msgstr "Choisissez un nom et une année pour créer votre championnat."
+
+msgid "Club"
+msgstr "Club"
+
+msgid "Club Information"
+msgstr "Information du Club"
+
+msgid "Club Information Link:"
+msgstr "Lien du Club :"
+
+msgid "Club Name:"
+msgstr "Nom du Club :"
+
+msgid "Club Venue:"
+msgstr "Stade :"
+
+msgid "Club Website:"
+msgstr "Site Web :"
+
+msgid "Club added successfully in "
+msgstr "Club ajouté avec succès dans "
+
+msgid "Club added successfully."
+msgstr "Club ajouté avec succès."
+
+msgid "Club deleted successfully with all data associated."
+msgstr "Club supprimé ainsi que les données associées."
+
+msgid "Club information edited with success!"
+msgstr "Informations modifiées avec succès !"
+
+msgid "Club removed successfully from "
+msgstr "Club enlevé avec succès de "
+
+msgid "Clubs"
+msgstr "Clubs"
+
+msgid "Clubs (PHPLeague)"
+msgstr "Clubs (PHPLeague)"
+
+msgid "Clubs Listing"
+msgstr "Liste des Clubs"
+
+msgid "Clubs deleted successfully with all data associated."
+msgstr "Clubs supprimés ainsi que les données associées."
+
+msgid "Clubs removed successfully from "
+msgstr "Clubs enlevés avec succès de "
+
+msgid "Coach"
+msgstr "Coach"
+
+msgid "Coach Name:"
+msgstr "Nom du Coach :"
+
+msgid "Coach: "
+msgstr "Coach :"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Country:"
+msgstr "Pays:"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Create a League"
+msgstr "Créer un Championnat"
+
+msgid ""
+"Create a club is really simple. You just need to choose a name and assign "
+"him a country."
+msgstr ""
+"Créer un club est très simple. Vous devez simplement choisir un nom et lui "
+"assigner un pays."
+
+msgid ""
+"Create a player is really simple. You just need to choose a firstname and a "
+"lastname."
+msgstr ""
+"Ajouter un joueur est très simple. Vous devez simplement renseigner un "
+"prénom et un nom de famille."
+
+msgid "Creation Year:"
+msgstr "Année de Fondation :"
+
+msgid "Creation: "
+msgstr "Fondation :"
+
+msgid "D"
+msgstr "Nul"
+
+msgid "Dashboard"
+msgstr "Tableau de Bord"
+
+msgid "Dashboard (PHPLeague)"
+msgstr "Tableau de Bord (PHPLeague)"
+
+msgid "Data Type"
+msgstr "Type de Donnée"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Day"
+msgstr "Jour"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Delete a Club"
+msgstr "Supprimer un Club"
+
+msgid "Delete a League"
+msgstr "Supprimer un Championnat"
+
+msgid "Delete a Player"
+msgstr "Supprimer un Joueur"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Details"
+msgstr "Détails :"
+
+msgid "Display a lightweight ranking table"
+msgstr "Affiche un classement simplifié"
+
+msgid ""
+"Display all fixtures for a chosen league or only those for a team into that "
+"particular league."
+msgstr ""
+"Afficher toutes les journées d'un championnat ou uniquement celles d'une "
+"équipe en particulier."
+
+msgid "Edit a Club"
+msgstr "Modifier un Club"
+
+msgid "Edit a Player"
+msgstr "Modifier un Joueur"
+
+msgid "Error! No action has been given."
+msgstr "Erreur ! Aucune action reçue."
+
+msgid "F"
+msgstr "BP"
+
+msgid "Favorite Team:"
+msgstr "Equipe favorite :"
+
+msgid "First Name:"
+msgstr "Prénom :"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "Fixture"
+msgstr "Journée"
+
+msgid "Fixtures"
+msgstr "Journées"
+
+msgid "Fixtures of "
+msgstr "Journées de "
+
+msgid "Fixtures updated successfully!"
+msgstr "Journées mises à jour avec succès."
+
+msgid "Football"
+msgstr "Football"
+
+msgid "General Settings"
+msgstr "Options Générales"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "Height"
+msgstr "Taille"
+
+msgid "Height:"
+msgstr "Taille :"
+
+msgid "Home"
+msgstr "Domicile"
+
+msgid "Home Matches"
+msgstr "Matchs à domicile"
+
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+msgid "Hour(s) before Closing:"
+msgstr "Heure(s) avant clôture :"
+
+msgid ""
+"I did not test the plugin under all Operating Systems but I am pretty sure "
+"it must handle every environment. As WordPress 3.1+, the minimum version of "
+"PHP required is 5.2.4 or greater and MySQL version 5 or greater for your "
+"database. Javascript must be enabled in the back-end of PHPLeague."
+msgstr ""
+"Je n'ai pas testé le plugin sous tous les Systèmes d'Opérations mais je suis "
+"plus au moins certain que cela doit fonctionner partout. Tout comme "
+"WordPress 3.1+, le minimum requis est d'avoir PHP 5.2.4 ou supérieur ainsi "
+"que MySQL en version 5 ou supérieur. Javascript doit être activé dans "
+"l'administration de PHPLeague."
+
+msgid ""
+"I do not recommend using the Player Mod in production environment yet and be "
+"aware that only few features have been developed so far..."
+msgstr ""
+"Il n'est pas recommandé d'utiliser le module de Joueurs dans un "
+"environnement de production à l'heure actuelle and ayez conscience que peu "
+"de fonctionnalités ont été développées à ce jour."
+
+msgid ""
+"I would like to thanks everybody who contribute - indirectly - to develop "
+"this Plugin. The names I have in mind are: Alexis Mangin, jQuery Developers "
+"and WordPress Developers."
+msgstr ""
+"J'aimerai remercier tout ceux qui ont contribué - indirectement - au "
+"développement de ce plugin. Les quelques noms que j'ai en tête sont les "
+"suivants : Alexis Mangin, jQuery Developers et WordPress Developers."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ID Team"
+msgstr "ID Equipe"
+
+msgid "Information to show => \"table/fixtures/fixture\""
+msgstr "Information à afficher => \"table/fixtures/fixture\""
+
+msgid "Insert"
+msgstr "Insérer"
+
+msgid "Invert"
+msgstr "Inverser"
+
+msgid "It seems that "
+msgstr "Il semble que "
+
+msgid ""
+"Keep in mind that once you delete a club, all data associated will be "
+"destroyed."
+msgstr ""
+"Garder à l'esprit qu'une fois le club supprimé, toutes les données associées "
+"le seront aussi."
+
+msgid ""
+"Keep in mind that once you delete a league, all data associated will be "
+"destroyed."
+msgstr ""
+"Garder à l'esprit qu'une fois le championnat supprimé, toutes les données "
+"associées le seront aussi."
+
+msgid ""
+"Keep in mind that once you delete a player, all data associated will be "
+"destroyed."
+msgstr ""
+"Garder à l'esprit qu'une fois le joueur supprimé, toutes les données "
+"associées le seront aussi."
+
+msgid "Kind of style => \"general/home/away\""
+msgstr "Type de style => \"general/home/away\""
+
+msgid "L"
+msgstr "Perdus"
+
+msgid "Last 5 matches"
+msgstr "5 dernières rencontres"
+
+msgid "Last Name:"
+msgstr "Nom :"
+
+msgid "Lastname"
+msgstr "Nom"
+
+msgid "Latest News from PHPLeague..."
+msgstr "Les dernières news en provenance de PHPLeague..."
+
+msgid "League"
+msgstr "Championnat"
+
+msgid "League ID"
+msgstr "ID Championnat"
+
+msgid "League created successfully."
+msgstr "Championnat créé avec succès."
+
+msgid "League deleted successfully."
+msgstr "Championnat supprimé avec succès."
+
+msgid "Leagues deleted successfully."
+msgstr "Championnats supprimés avec succès."
+
+msgid "Leg(s) between Teams:"
+msgstr "Match(s) aller-retour :"
+
+msgid "Manage Fixtures"
+msgstr "Gérer les Journées"
+
+msgid "Manage Matches"
+msgstr "Gérer les Matchs"
+
+msgid "Manage Results"
+msgstr "Gérer les Résultats"
+
+msgid "Manage Settings"
+msgstr "Gérer les Options"
+
+msgid "Manage Teams"
+msgstr "Gérer les Equipes"
+
+msgid "Manual"
+msgstr "Manuel"
+
+msgid "Match"
+msgstr "Match"
+
+msgid "Match \""
+msgstr "Match \""
+
+msgid "Match(es) updated successfully."
+msgstr "Matchs mis à jour avec succès."
+
+msgid "Matches"
+msgstr "Matchs"
+
+msgid "Matches of "
+msgstr "Matchs de "
+
+msgid "Mini Logo:"
+msgstr "Mini Logo :"
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name:"
+msgstr "Nom :"
+
+msgid "Name: "
+msgstr "Nom :"
+
+msgid "New Club"
+msgstr "Nouveau Club"
+
+msgid "New League"
+msgstr "Nouveau Championnat"
+
+msgid "New Player"
+msgstr "Nouveau Joueur"
+
+msgid "No"
+msgstr "Non"
+
+msgid "No league found in the database!"
+msgstr "Aucun championnat trouvé dans la base de donnée !"
+
+msgid "No team has been selected!"
+msgstr "Aucune équipe n'a été sélectionnée !"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "Once your club is available, you can edit it by clicking on his name."
+msgstr ""
+"Une fois le club disponible, vous pouvez le modifier en cliquant sur son nom."
+
+msgid ""
+"Once your player is available, you can edit it by clicking on his name. In "
+"edition mode, you can assign teams in the player profile. Once assigned, the "
+"player is available in the \"results\" section."
+msgstr ""
+"Une fois le joueur disponible, vous pouvez le modifier en cliquant sur son "
+"nom. En mode édition, vous pouvez assigner des équipes à chaque joueur. Une "
+"fois une équipe assignée, le joueur devient disponible dans la section "
+"\"résultats\"."
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Optional"
+msgstr "Optionnel"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Overview"
+msgstr "Aperçu"
+
+msgid "P"
+msgstr "Matchs joués"
+
+msgid "PHPLeague"
+msgstr "PHPLeague"
+
+msgid "PHPLeague Latest News"
+msgstr "Les dernières nouvelles de PHPLeague"
+
+msgid "PHPLeague for WordPress"
+msgstr "PHPLeague pour WordPress"
+
+msgid "PHPLeague has been activated with success!"
+msgstr "PHPLeague a été activé avec succès !"
+
+msgid "PHPleague Ranking Table"
+msgstr "PHPleague Classement"
+
+msgid "Parameter"
+msgstr "Paramètre"
+
+msgid "Permission insufficient to run PHPLeague!"
+msgstr "Accès non autorisé ! Permission insuffisante pour utiliser PHPLeague !"
+
+msgid "Picture:"
+msgstr "Image :"
+
+msgid "Player Biography"
+msgstr "Présentation du Joueur"
+
+msgid "Player History"
+msgstr "Historique du Joueur"
+
+msgid "Player Information"
+msgstr "Information du Joueur"
+
+msgid "Player Listing"
+msgstr "Liste des Joueurs"
+
+msgid "Player Mod Enabled:"
+msgstr "Activer le module Joueurs :"
+
+msgid "Player Record"
+msgstr "Historique du Joueur"
+
+msgid "Player Settings"
+msgstr "Options des Joueurs"
+
+msgid "Player added successfully."
+msgstr "Joueur ajouté avec succès."
+
+msgid "Player deleted successfully."
+msgstr "Joueur supprimé avec succès."
+
+msgid "Player edited with success!"
+msgstr "Joueur modifié avec succès !"
+
+msgid "Players"
+msgstr "Joueurs"
+
+msgid "Players (PHPLeague)"
+msgstr "Joueurs (PHPLeague)"
+
+msgid "Players deleted successfully."
+msgstr "Joueurs supprimés avec succès."
+
+msgid "Players settings updated successfully!"
+msgstr "Options des Joueurs mises à jour avec succès !"
+
+msgid "Point(s) for Defeat:"
+msgstr "Point(s) pour une défaite :"
+
+msgid "Point(s) for Draw:"
+msgstr "Point(s) pour un nul :"
+
+msgid "Point(s) for Participation:"
+msgstr "Point(s) par participation :"
+
+msgid "Point(s) for Victory:"
+msgstr "Point(s) pour une victoire :"
+
+msgid "Point(s) when Right:"
+msgstr "Point(s) en cas de réussite :"
+
+msgid "Point(s) when Wrong:"
+msgstr "Point(s) en cas d'erreur :"
+
+msgid "Pos"
+msgstr "Classement"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Prediction Mod Enabled:"
+msgstr "Activer le module Pronostiques :"
+
+msgid ""
+"Prediction Mod is not working at all except to save the settings because I "
+"am waiting for the new WordPress 3.3."
+msgstr ""
+"Le module de Pronostiques ne fonctionne pas encore excepté pour sauver les "
+"données car j'attends la nouvelle mise à jour de WordPress 3.3."
+
+msgid "Prediction Settings"
+msgstr "Options des Pronostiques"
+
+msgid "Prediction settings updated successfully!"
+msgstr "Options des Pronostiques mises à jour avec succès !"
+
+msgid "Profile updated successfully."
+msgstr "Profile mis à jour avec succès."
+
+msgid "Pts"
+msgstr "Points"
+
+msgid "Release: "
+msgstr "Version :"
+
+msgid "Remove"
+msgstr "Enlever"
+
+msgid "Requirements"
+msgstr "Configuration Requise"
+
+msgid "Results"
+msgstr "Résultats"
+
+msgid "Results of "
+msgstr "Résultats de "
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Save Table"
+msgstr "Sauvegarder"
+
+msgid "Score"
+msgstr "Score"
+
+msgid "Select one league from the dropdown list"
+msgstr "Sélectionner un championnat depuis la liste déroulante"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Settings"
+msgstr "Options"
+
+msgid "Settings updated successfully."
+msgstr "Options mises à jour avec succès."
+
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+msgid "Shortcodes Listing"
+msgstr "Liste des Shortcodes"
+
+msgid "Show all fixtures but only for that team"
+msgstr "Affiche toutes les journées mais uniquement pour une seule équipe"
+
+msgid "Show latest results"
+msgstr "Montrer les derniers résultats"
+
+msgid "Show the 5 latest results in ranking table"
+msgstr "Montrer les 5 derniers résultats dans le classement"
+
+msgid "Starting Players:"
+msgstr "Titulaires :"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Substitute Players:"
+msgstr "Remplacants :"
+
+msgid "Table updated successfully."
+msgstr "Classement mis à jour avec succès."
+
+msgid "Tables"
+msgstr "Classements"
+
+msgid "Team"
+msgstr "Equipe"
+
+msgid "Team added successfully to the profile."
+msgstr "Equipe ajoutée avec succès au profil."
+
+msgid ""
+"Team deleted successfully from the player history with all the data "
+"associated."
+msgstr ""
+"Equipe supprimée avec succès du profil ainsi que les données associées."
+
+msgid "Team(s) for Promotion:"
+msgstr "Equipe(s) promue(s) :"
+
+msgid "Team(s) for Qualifying:"
+msgstr "Equipe(s) en Qualification :"
+
+msgid "Team(s) for Relegation:"
+msgstr "Equipe(s) reléguée(s):"
+
+msgid "Teams"
+msgstr "Equipes"
+
+msgid "Teams in "
+msgstr "Equipes dans "
+
+msgid "Term:"
+msgstr "Option :"
+
+msgid "Thanks"
+msgstr "Remerciements"
+
+msgid "The Countries"
+msgstr "Les pays"
+
+msgid "The Generator"
+msgstr "Le Générateur"
+
+msgid "The birthdate must follow the pattern: \"YYYY-MM-DD\"."
+msgstr "La date de naissance doit suivre le pattern suivant : \"YYYY-MM-DD\"."
+
+msgid "The club "
+msgstr "Le club"
+
+msgid ""
+"The coach must be alphanumeric and 5 characters long at least (optional)."
+msgstr ""
+"L'entraineur doit être alphanumérique et contenir au minimum 5 caractères "
+"(optionnel)."
+
+msgid "The creation date must be 4 digits (optional)."
+msgstr "L'année doit être composée de 4 chiffres (optionnel)."
+
+msgid "The first name must be alphanumeric and 3 characters long at least."
+msgstr "Le nom doit être alphanumérique et contenir au minimum 3 caractères."
+
+msgid "The fixtures format is not good!"
+msgstr "Le format de la journée n'est pas correct."
+
+msgid "The height must be bigger than 0 and lower than 255."
+msgstr "La taille doit être comprise entre 0 et 255 compris."
+
+msgid "The last name must be alphanumeric and 3 characters long at least."
+msgstr "Le nom doit être alphanumérique et contenir au minimum 3 caractères."
+
+msgid "The league is already in your database."
+msgstr "Le championnat est déjà dans votre base de donnée."
+
+msgid "The name cannot be empty."
+msgstr "Le nom ne peut être vide."
+
+msgid "The name must be alphanumeric and 3 characters long at least."
+msgstr "Le nom doit être alphanumérique et contenir au minimum 3 caractères."
+
+msgid ""
+"The venue must be alphanumeric and 5 characters long at least (optional)."
+msgstr ""
+"Le stade doit être alphanumérique et contenir au minimum 5 caractères "
+"(optionnel)."
+
+msgid "The website is not valid (optional)."
+msgstr "Le site web est invalide (optionnel)."
+
+msgid "The weight must be bigger than 0 and lower than 255."
+msgstr "Le poids doit être compris entre 0 et 255 compris."
+
+msgid "The year must be 4 digits."
+msgstr "L'année doit être composée de 4 chiffres."
+
+msgid ""
+"This is the final step in order to update your table. When you choose to "
+"generate your table, every result will be calculated according to your "
+"settings and the database table will be filled in with the latest data."
+msgstr ""
+"C'est l'étape finale dans le but de mettre à jour la base de donnée. Une "
+"fois que vous aurez choisi cette option, tous les résultats seront "
+"automatiquement calculés selon vos préférences et votre classement sera mis "
+"à jour avec les dernières données."
+
+msgid ""
+"This page is your dashboard and the main point of contact to manage most of "
+"the actions."
+msgstr ""
+"Cette page est votre tableau de bord et votre point de contact pour gérer la "
+"plupart des actions."
+
+msgid ""
+"This section of the plugin is entirely dedicated to the clubs management. "
+"You can add, edit or even delete a club once created."
+msgstr ""
+"Cette section du plugin est entièrement dédiée à la gestion des clubs. Vous "
+"pouvez en ajouter, modifier ou même en supprimer."
+
+msgid ""
+"This section of the plugin is entirely dedicated to the players management. "
+"You can add, edit or even delete a player once created."
+msgstr ""
+"Cette section du plugin est entièrement dédiée à la gestion des joueurs. "
+"Vous pouvez en ajouter, modifier ou même en supprimer."
+
+msgid "Time by Default:"
+msgstr "Heure par défaut :"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Venue"
+msgstr "Stade"
+
+msgid "Venue: "
+msgstr "Stade :"
+
+msgid "W"
+msgstr "Gagnés"
+
+msgid "We are sorry but it seems that an error occurred."
+msgstr "Nous sommes désolés mais il semble qu'une erreur est survenue."
+
+msgid "We are sorry but it seems that you did not select a club."
+msgstr ""
+"Nous sommes désolés mais il semble que vous n'ayez pas sélectionner de club."
+
+msgid "We are sorry but it seems that you did not select a league."
+msgstr ""
+"Nous sommes désolés mais il semble que vous n'ayez pas sélectionner de "
+"championnat."
+
+msgid "We are sorry but it seems that you did not select a player."
+msgstr ""
+"Nous sommes désolés mais il semble que vous n'ayez pas sélectionner de "
+"joueur."
+
+msgid "We did not find any club in the database."
+msgstr "Aucun club trouvé dans la base de donnée."
+
+msgid "We did not find any player in the database."
+msgstr "Aucun joueur n'a été trouvé dans la base de donnée."
+
+msgid "We did not find the club in the database."
+msgstr "Aucun club correspondant trouvé."
+
+msgid "We did not find the corresponding settings to this league."
+msgstr "Les options correspondantes au championnat n'ont pas été trouvées."
+
+msgid "We did not find the league in the database."
+msgstr "Nous n'avons pas trouvé de championnat correspondant."
+
+msgid "We did not find the player in the database."
+msgstr "Aucun joueur correspondant dans la base de donnée."
+
+msgid "Website: "
+msgstr "Site Web :"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Weight:"
+msgstr "Poids :"
+
+msgid "What Sport:"
+msgstr "Quel sport :"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Widgets Listing"
+msgstr "Liste des Widgets"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Year:"
+msgstr "Année :"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid ""
+"You are currently using the <b>ULTIMATE</b> edition of the PHPLeague for "
+"WordPress Plugin."
+msgstr ""
+"Vous utilisez actuellement l'édition <b>ULTIMATE</b> de PHPLeague pour "
+"WordPress."
+
+msgid "You cannot activate the Prediction Mod because the year is past."
+msgstr ""
+"Vous ne pouvez pas activer le module de pronostique car l'année est déjà "
+"passée."
+
+msgid "You cannot add twice the same club in a league."
+msgstr ""
+"Il est impossible d'ajouter deux fois le même club dans un championnat."
+
+msgid "You cannot have the same team at home and away."
+msgstr "Vous ne pouvez pas avoir la même équipe à domicile et à l'extérieur."
+
+msgid "You cannot have the same team twice in a fixture."
+msgstr "Il est impossible d'ajouter deux fois la même équipe dans une journée."
+
+msgid "fixtures"
+msgstr "fixtures"
+
+msgid "table"
+msgstr "table"
+
+msgid "Won sets"
+msgstr "Sets gagnés"
+
+msgid "Lost sets"
+msgstr "Sets perdus"
+
+msgid "Forfeits"
+msgstr "Forfaits"
+
+msgid "Not playing"
+msgstr "Repos"
+
+msgid "A team cannot be not playing more than once!"
+msgstr "Une équipe ne peut pas ne pas jouer plus d'une fois !"
+
+msgid "Enter / for forfeit"
+msgstr "Entrer / pour un forfait"
+
+msgid "WordPress user:"
+msgstr "Utilisateur WordPress :"
+
+msgid "My results"
+msgstr "Mes résultats"
+
+msgid "Address:"
+msgstr "Adresse :"
+
+msgid "Phone:"
+msgstr "Téléphone :"
+
+msgid "Training time:"
+msgstr "Horaire d'entrainement :"
+
+msgid "Week"
+msgstr "Semaine"

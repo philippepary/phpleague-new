@@ -1,0 +1,1321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PHPLeague\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-29 21:39+0100\n"
+"PO-Revision-Date: 2012-02-29 21:39+0100\n"
+"Last-Translator: Maxime Dizerens <mdizerens@gmail.com>\n"
+"Language-Team: Mikaweb <mikaweb@gunners.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague\n"
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/phpleague.php:162
+msgid "Permission insufficient to run PHPLeague!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:56
+msgid "PHPLeague"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:68
+msgid "Tables"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:69
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:24
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:157
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:30
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:30
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:122
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:22
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:163
+msgid "Fixtures"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:70
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:145
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:129
+msgid "Fixture"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:71
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:16
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:89
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:96
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:103
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:110
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:117
+msgid "Clubs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:79
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:120
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:152
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:228
+msgid "League"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:96
+msgid "Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:99
+msgid "Normal"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:100
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:111
+msgid "Home"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:101
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:112
+msgid "Away"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:106
+msgid "Show latest results"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:109
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:172
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:119
+msgid "No"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:110
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:180
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:188
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:196
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:204
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:119
+msgid "Yes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:135
+msgid "ID Team"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:139
+msgid "Display all fixtures for a chosen league or only those for a team into that particular league."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:158
+msgid "Club"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:178
+msgid "Cancel"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/assets/js/tinymce/window.php:181
+msgid "Insert"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:15
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:25
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:32
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:39
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:46
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:53
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:60
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:67
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:74
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:81
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:173
+msgid "Dashboard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:17
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:125
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:133
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:140
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:147
+msgid "Players"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:18
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:211
+msgid "Shortcodes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:19
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:237
+msgid "Widgets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:20
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:245
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:252
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:259
+msgid "About"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:26
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:90
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:126
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:246
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:26
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:98
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:135
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:121
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:133
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:172
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:24
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:89
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:124
+msgid "Overview"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:27
+msgid "This page is your dashboard and the main point of contact to manage most of the actions."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:33
+msgid "Create a League"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:34
+msgid "Choose a name and a year then you can create your league."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:40
+msgid "Delete a League"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:41
+msgid "Keep in mind that once you delete a league, all data associated will be destroyed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:47
+msgid "Manage Teams"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:48
+msgid "The first thing you need to do once your league has been created is to assign it teams. You can have an odd or even number of teams, PHPLeague is handling every case smoothly, but still two teams minimum are required. A little counter is showing you how many teams are in the current league.You can remove more than once team at the same time too."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:54
+msgid "Manage Fixtures"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:55
+msgid "In the fixtures section, you will be asked to fill in every fixtures date. Be aware that the fixtures time is automatically added in the database. This time can be override in the settings section but then you have to come back here and save it one more time to update all fixtures date time."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:61
+msgid "Manage Matches"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:62
+msgid "In the matches sections, you have to relate every match between each others. Take time to fill in all the data because it is very easy to make a mistake. You can check if the data are OK in your teams section. Be aware that if you do not fill in the fixtures, you will not be able to fill in the matches."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:68
+msgid "Manage Results"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:69
+msgid "In the results section, you will be asked to fill in all the results for a fixture. If you want to add the results of a team before all the others, that is not a problem. Let every input blank and fill in the one you are interested in."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:75
+msgid "Manage Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:76
+msgid "In this section, you have the possibility to setup every option available with the plugin like the number of points for a victory, a draw or a defeat. It might happen that a club received a penalty point or more than one. No problem, the plugin handle this perfectly. You can also use this to add \"bonus\" point."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:82
+msgid "The Generator"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:83
+msgid "This is the final step in order to update your table. When you choose to generate your table, every result will be calculated according to your settings and the database table will be filled in with the latest data."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:91
+msgid "This section of the plugin is entirely dedicated to the clubs management. You can add, edit or even delete a club once created."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:97
+msgid "Add a Club"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:98
+msgid "Create a club is really simple. You just need to choose a name and assign him a country."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:104
+msgid "Edit a Club"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:105
+msgid "Once your club is available, you can edit it by clicking on his name."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:111
+msgid "Delete a Club"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:112
+msgid "Keep in mind that once you delete a club, all data associated will be destroyed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:118
+msgid "The Countries"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:119
+msgid "By default, the countries are in English but you can update them from your MySQL Administration software. The French version is available in the i18n folder of your plugin."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:127
+msgid "This section of the plugin is entirely dedicated to the players management. You can add, edit or even delete a player once created."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:134
+msgid "Add a Player"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:135
+msgid "Create a player is really simple. You just need to choose a firstname and a lastname."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:141
+msgid "Edit a Player"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:142
+msgid "Once your player is available, you can edit it by clicking on his name. In edition mode, you can assign teams in the player profile. Once assigned, the player is available in the \"results\" section."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:148
+msgid "Delete a Player"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:149
+msgid "Keep in mind that once you delete a player, all data associated will be destroyed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:157
+msgid "Parameter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:158
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:223
+msgid "Description"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:159
+msgid "Data Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:160
+msgid "Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:161
+msgid "Default"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:162
+msgid "Optional"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:168
+msgid "League ID"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:176
+msgid "Information to show => \"table/fixtures/fixture\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:184
+msgid "Kind of style => \"general/home/away\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:186
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:202
+msgid "table"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:192
+msgid "Show all fixtures but only for that team"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:194
+msgid "fixtures"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:200
+msgid "Show the 5 latest results in ranking table"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:212
+msgid "Shortcodes Listing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:222
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:114
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:115
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:127
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:105
+msgid "Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:224
+msgid "Option"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:229
+msgid "PHPleague Ranking Table"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:230
+msgid "Display a lightweight ranking table"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:231
+msgid "Select one league from the dropdown list"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:238
+msgid "Widgets Listing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:247
+msgid "You are currently using the <b>ULTIMATE</b> Edition of PHPLeague."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:253
+msgid "Requirements"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:254
+msgid "I did not test the plugin under all Operating Systems but I am pretty sure it must handle every environment. As WordPress 3.1+, the minimum version of PHP required is 5.2.4 or greater and MySQL version 5 or greater for your database. Javascript must be enabled in the back-end of PHPLeague."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:260
+msgid "Thanks"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/about.php:261
+msgid "I would like to thanks everybody who contribute - indirectly - to develop this Plugin. The names I have in mind are: Alexis Mangin, jQuery Developers and WordPress Developers."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:45
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:57
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:67
+msgid "The name cannot be empty."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:49
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:70
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:61
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:71
+msgid "The name must be alphanumeric and 3 characters long at least."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:53
+msgid "The club "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:57
+msgid "Club added successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:68
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:56
+msgid "We are sorry but it seems that you did not select a club."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:82
+msgid "Club deleted successfully with all data associated."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:84
+msgid "Clubs deleted successfully with all data associated."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:90
+msgid "We did not find any club in the database."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:94
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:129
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:85
+msgid "Create"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:99
+msgid "New Club"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:106
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:144
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:97
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:253
+msgid "Delete"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:113
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:115
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:104
+msgid "ID"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:115
+msgid "Country"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:116
+msgid "Coach"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:117
+msgid "Venue"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club.php:136
+msgid "Clubs Listing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:16
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:124
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:125
+msgid "Club Information"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:20
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:36
+msgid "We did not find the club in the database."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:39
+msgid "The venue must be alphanumeric and 5 characters long at least (optional)."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:46
+msgid "The coach must be alphanumeric and 5 characters long at least (optional)."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:53
+msgid "The creation date must be 4 digits (optional)."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:60
+msgid "The website is not valid (optional)."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:66
+msgid "Busted! We got 2 different IDs which is not possible!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:75
+msgid "Club information edited with success!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:92
+msgid "Club Name:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:94
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:144
+msgid "Country:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:98
+msgid "Coach Name:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:100
+msgid "Club Venue:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:104
+msgid "Club Website:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:106
+msgid "Creation Year:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:110
+msgid "Big Logo:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:112
+msgid "Mini Logo:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/club_edit.php:118
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:124
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:100
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:102
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:201
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:229
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:259
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:281
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:190
+msgid "Save"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:13
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:18
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:17
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:13
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:13
+msgid "We did not find the league in the database."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:23
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:29
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:29
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:121
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:21
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:100
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:132
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:162
+msgid "Teams"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:25
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:31
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:144
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:31
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:123
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:23
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:164
+msgid "Matches"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:26
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:32
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:32
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:238
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:124
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:24
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:165
+msgid "Results"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:27
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:33
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:33
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:125
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:205
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:232
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:264
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:283
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:25
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:166
+msgid "Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:40
+msgid "The fixtures format is not good!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:66
+msgid "Fixtures updated successfully!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:72
+msgid "Be aware that your league has an odd number of teams."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:77
+msgid "It seems that "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:130
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:128
+msgid "Year"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:131
+msgid "Month"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:132
+msgid "Day"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_fixture.php:158
+msgid "Fixtures of "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:58
+msgid "An error occurred with the fixture ID."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:62
+msgid "An error occurred because of the datatype given."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:78
+msgid "You cannot have the same team at home and away."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:83
+msgid "You cannot have the same team twice in a fixture."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:94
+msgid "Match(es) updated successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:110
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:108
+msgid " - Fixture: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_match.php:145
+msgid "Matches of "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:49
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:54
+msgid "Match \""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:58
+msgid "An error occurred during the results generation."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:131
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:139
+msgid "-- Select a player --"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_result.php:239
+msgid "Results of "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:44
+msgid "You cannot activate the Prediction Mod because the year is past."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:49
+msgid "We did not find the corresponding settings to this league."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:53
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:63
+msgid "The year must be 4 digits."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:66
+msgid "Settings updated successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:76
+msgid "We are sorry but it seems that an error occurred."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:87
+msgid "Bonus/Malus updated successfully!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:99
+msgid "Prediction settings updated successfully!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:108
+msgid "Players settings updated successfully!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:126
+msgid "Generate"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:136
+msgid "-- Select a team --"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:146
+msgid "Football"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:157
+msgid "Name:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:159
+msgid "Year:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:163
+msgid "Point(s) for Victory:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:165
+msgid "Team(s) for Promotion:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:169
+msgid "Point(s) for Draw:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:171
+msgid "Team(s) for Qualifying:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:175
+msgid "Point(s) for Defeat:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:177
+msgid "Team(s) for Relegation:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:181
+msgid "Club Information Link:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:183
+msgid "Time by Default:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:187
+msgid "Favorite Team:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:189
+msgid "Leg(s) between Teams:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:193
+msgid "Player Mod Enabled:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:195
+msgid "Prediction Mod Enabled:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:199
+msgid "I do not recommend using the Player Mod in production environment yet and be aware that only few features have been developed so far..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:200
+msgid "Prediction Mod is not working at the moment except to save your settings."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:206
+msgid "General Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:218
+msgid "Starting Players:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:220
+msgid "Substitute Players:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:224
+msgid "What Sport:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:233
+msgid "Player Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:246
+msgid "Point(s) when Right:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:248
+msgid "Point(s) when Wrong:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:252
+msgid "Point(s) for Participation:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:254
+msgid "Hour(s) before Closing:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:265
+msgid "Prediction Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_setting.php:284
+msgid "Bonus/Malus for "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:40
+msgid "You cannot add twice the same club in a league."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:46
+msgid "Club added successfully in "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:74
+msgid "Club removed successfully from "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:76
+msgid "Clubs removed successfully from "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:95
+msgid "Send"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:97
+msgid " Your league has currently <b>%d</b> teams."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:101
+msgid "Add a Team in "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:108
+msgid "Remove"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:116
+msgid "Home Matches"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:116
+msgid "Away Matches"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/league_team.php:133
+msgid "Teams in "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:53
+msgid "Table updated successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:75
+msgid "The league is already in your database."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:80
+msgid "League created successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:90
+msgid "We are sorry but it seems that you did not select a league."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:104
+msgid "League deleted successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:106
+msgid "Leagues deleted successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:124
+msgid "No league found in the database!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:134
+msgid "New League"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:140
+msgid "PHPLeague has been activated with success!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/overview.php:153
+msgid "Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:37
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:62
+msgid "The first name must be alphanumeric and 3 characters long at least."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:41
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:66
+msgid "The last name must be alphanumeric and 3 characters long at least."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:45
+msgid "Player added successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:56
+msgid "We are sorry but it seems that you did not select a player."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:72
+msgid "Player deleted successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:74
+msgid "Players deleted successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:80
+msgid "We did not find any player in the database."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:83
+msgid "Firstname"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:84
+msgid "Lastname"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:90
+msgid "New Player"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:106
+msgid "Birthdate"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:107
+msgid "Height"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:108
+msgid "Weight"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player.php:125
+msgid "Player Listing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:17
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:158
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:159
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:194
+msgid "Player Information"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:17
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:215
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:259
+msgid "Player Record"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:21
+msgid "We did not find the player in the database."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:40
+msgid "The birthdate must follow the pattern: \"YYYY-MM-DD\"."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:46
+msgid "The weight must be bigger than 0 and lower than 255."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:52
+msgid "The height must be bigger than 0 and lower than 255."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:58
+msgid "Busted! ID is not correct!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:70
+msgid "Player edited with success!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:88
+msgid "Profile updated successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:97
+msgid "No team has been selected!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:101
+msgid "A player cannot be twice in the same team."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:106
+msgid "Team added successfully to the profile."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:117
+msgid "-- Select a term --"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:130
+msgid "First Name:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:132
+msgid "Last Name:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:136
+msgid "Height:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:138
+msgid "Weight:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:142
+msgid "Birthdate:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:148
+msgid "Picture:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:150
+msgid "Term:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:195
+msgid "Player Biography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:201
+msgid "-- Select a Team --"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:210
+msgid " Select one team from a league."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:211
+msgid "Add"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:216
+msgid "Add a Team"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:229
+msgid "Team"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:230
+msgid "Number"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:231
+msgid "Position"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:237
+msgid "-- Select a position --"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:257
+msgid "Save Table"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/inc/admin/player_edit.php:260
+msgid "Player History"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:44
+msgid "Release: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:47
+msgid "Changelog"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:48
+msgid "Forum"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:49
+msgid "Homepage"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:142
+msgid "<noscript>Javascript must be enabled, thank you.</noscript>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:275
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:288
+msgid "Dashboard (PHPLeague)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:297
+msgid "Clubs (PHPLeague)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:306
+msgid "Players (PHPLeague)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:315
+msgid "About (PHPLeague)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-admin.php:334
+msgid "PHPLeague Latest News"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-ajax.php:47
+msgid "Team deleted successfully from the player history with all the data associated."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:77
+msgid "Last 5 matches"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:82
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:398
+msgid "Pos"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:84
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:400
+msgid "Pts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:85
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:401
+msgid "P"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:86
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:200
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:215
+msgid "W"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:87
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:208
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:223
+msgid "D"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:88
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:204
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:219
+msgid "L"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:89
+msgid "F"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:90
+msgid "A"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:91
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:402
+msgid "+/-"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:258
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:298
+msgid "Date"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:259
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:300
+msgid "Match"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:260
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:301
+msgid "Score"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:365
+msgid " Factfile"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:366
+msgid "Details"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:367
+msgid "Name: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:368
+msgid "Coach: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:369
+msgid "Venue: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:370
+msgid "Website: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-front.php:372
+msgid "Creation: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-tools.php:82
+msgid "&laquo;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-tools.php:83
+msgid "&raquo;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-tools.php:189
+msgid "-- Select a file --"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-tools.php:327
+msgid "Error! No action has been given."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/www/wp-dev/wp-content/plugins/phpleague/libs/phpleague-widgets.php:36
+msgid "Latest Discussions About PHPLeague..."
+msgstr ""
+
+msgid "Invert"
+msgstr ""
+
+msgid "Won sets"
+msgstr ""
+
+msgid "Lost sets"
+msgstr ""
+
+msgid "Forfeits"
+msgstr ""
+
+msgid "Not playing"
+msgstr ""
+
+msgid "A team cannot be not playing more than once!"
+msgstr ""
+
+msgid "Enter / for forfeit"
+msgstr ""
+
+msgid "WordPress user:"
+msgstr ""
+
+msgid "My results"
+msgstr ""
+
+msgid "Address:"
+msgstr ""
+
+msgid "Phone:"
+msgstr ""
+
+msgid "Training time:"
+msgstr ""
+
+msgid "Week"
+msgstr ""
